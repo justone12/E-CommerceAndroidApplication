@@ -10,8 +10,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.view.ViewGroup.LayoutParams;
 
-import com.allandroidprojects.ecomsample.R;
-
+import me.sabbirahmed.ecomsample.R;
 import me.sabbirahmed.ecomsample.photoview.view.PhotoView;
 import me.sabbirahmed.ecomsample.utility.ImageUrlUtils;
 

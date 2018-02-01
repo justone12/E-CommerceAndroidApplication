@@ -4,7 +4,7 @@ import android.content.Context;
 import android.graphics.drawable.Drawable;
 import android.graphics.drawable.LayerDrawable;
 
-import com.allandroidprojects.ecomsample.R;
+import me.sabbirahmed.ecomsample.R;
 
 /**
  * Created by sabbir on 4/13/2016.

@@ -9,7 +9,7 @@ import android.view.animation.Animation;
 import android.view.animation.AnimationUtils;
 import android.widget.LinearLayout;
 
-import com.allandroidprojects.ecomsample.R;
+import me.sabbirahmed.ecomsample.R;
 
 public class SplashActivity extends Activity implements Animation.AnimationListener {
     Animation animFadeIn;

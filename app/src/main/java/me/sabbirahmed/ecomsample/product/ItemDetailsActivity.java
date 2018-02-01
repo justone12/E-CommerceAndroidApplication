@@ -7,6 +7,8 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.TextView;
 import android.widget.Toast;
+
+import me.sabbirahmed.ecomsample.R;
 import me.sabbirahmed.ecomsample.fragments.ImageListFragment;
 import me.sabbirahmed.ecomsample.fragments.ViewPagerActivity;
 import me.sabbirahmed.ecomsample.notification.NotificationCountSetClass;
@@ -14,7 +16,6 @@ import me.sabbirahmed.ecomsample.options.CartListActivity;
 import me.sabbirahmed.ecomsample.startup.MainActivity;
 import me.sabbirahmed.ecomsample.utility.ImageUrlUtils;
 
-import com.allandroidprojects.ecomsample.R;
 import com.facebook.drawee.view.SimpleDraweeView;
 
 public class ItemDetailsActivity extends AppCompatActivity {

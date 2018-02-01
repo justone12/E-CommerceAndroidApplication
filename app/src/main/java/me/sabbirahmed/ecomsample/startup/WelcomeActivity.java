@@ -18,8 +18,7 @@ import android.widget.Button;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
-import com.allandroidprojects.ecomsample.R;
-
+import me.sabbirahmed.ecomsample.R;
 import me.sabbirahmed.ecomsample.utility.PrefManager;
 
 public class WelcomeActivity extends AppCompatActivity {

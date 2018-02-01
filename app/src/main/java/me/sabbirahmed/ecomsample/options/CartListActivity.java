@@ -13,11 +13,11 @@ import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.LinearLayout;
 
+import me.sabbirahmed.ecomsample.R;
 import me.sabbirahmed.ecomsample.product.ItemDetailsActivity;
 import me.sabbirahmed.ecomsample.startup.MainActivity;
 import me.sabbirahmed.ecomsample.utility.ImageUrlUtils;
 
-import com.allandroidprojects.ecomsample.R;
 import com.facebook.drawee.view.SimpleDraweeView;
 
 import java.util.ArrayList;

@@ -16,8 +16,7 @@ import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
 
-import com.allandroidprojects.ecomsample.R;
-
+import me.sabbirahmed.ecomsample.R;
 import me.sabbirahmed.ecomsample.fragments.ImageListFragment;
 import me.sabbirahmed.ecomsample.miscellaneous.EmptyActivity;
 import me.sabbirahmed.ecomsample.notification.NotificationCountSetClass;

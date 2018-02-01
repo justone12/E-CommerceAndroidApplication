@@ -3,7 +3,7 @@ package me.sabbirahmed.ecomsample.miscellaneous;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-import com.allandroidprojects.ecomsample.R;
+import me.sabbirahmed.ecomsample.R;
 
 public class EmptyActivity extends AppCompatActivity {
     @Override

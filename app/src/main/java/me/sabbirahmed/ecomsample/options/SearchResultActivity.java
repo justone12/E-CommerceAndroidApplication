@@ -10,7 +10,8 @@ import android.support.v7.widget.SearchView;
 import android.view.Menu;
 import android.view.MenuInflater;
 
-import com.allandroidprojects.ecomsample.R;
+import me.sabbirahmed.ecomsample.R;
+
 
 public class SearchResultActivity extends AppCompatActivity {
     @Override

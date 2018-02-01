@@ -11,7 +11,7 @@ import android.graphics.Typeface;
 import android.graphics.drawable.Drawable;
 import android.support.v4.content.ContextCompat;
 
-import com.allandroidprojects.ecomsample.R;
+import me.sabbirahmed.ecomsample.R;
 
 /**
  * Created by sabbir on 4/13/2016.
